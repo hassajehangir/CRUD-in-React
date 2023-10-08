@@ -1,0 +1,14 @@
+install axios package for api and react-router-dom
+
+mockapi website is used for api
+
+import useNavigate from react-router-dom
+
+there was an error in line when it write response.stream
+
+in formEntry there was an error that I should write .then() before navigate the package
+
+====update====
+
+when you want to update data you want existing data on form
+for this you will store data in local storage then use it
